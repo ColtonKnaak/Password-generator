@@ -1,6 +1,7 @@
 # Password-generator
 
-## Description: A password is randomly generated based on criteria that the user provides when prompted.
+## Description 
+A password is randomly generated based on criteria that the user provides when prompted.
 
 When the user clicks the button "Generate Password" they are first promoted for password length. If outside the range of 8-5128, the user is prompted to once again enter a password length within the range. The prompt will loop until the user enters a valid number.
 
