@@ -9,4 +9,5 @@ The program then prompts the user to define if they would like to include number
 
 When all parameters have been defined, the password will appear within the password box.
 
-Technologies Used: HTML5, CSS3, JavaScript
+## Technologies Used
+HTML5, CSS3, JavaScript
